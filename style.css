@@ -146,6 +146,10 @@ div {
   line-height: 1.7;
 }
 
+figure {
+    margin: 0 auto;
+}
+
 /*
  .img{
   width:400px;
